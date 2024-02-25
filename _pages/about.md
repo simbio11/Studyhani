@@ -6,4 +6,4 @@ permalink: /about
 
 *This is an about page.*
 
-Feel free to tell the world about what you love! 😍
+형과 함께 공부를 해보자
