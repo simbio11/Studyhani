@@ -7,7 +7,31 @@ permalink: /
 
 # Welcome! 🌱
 
-형과 함께 공부를 해보자
+안녕하세요 섹시한 블로그입니다.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
   Take a look at <span style="font-weight: bold">[[Your first note]]</span> to get started on your exploration.
